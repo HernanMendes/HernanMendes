@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Advanced Python, Relational Databases and Scrapy.**
 - 👨‍💻 All of my projects are available at My Github
 - 📫 How to reach me **hmendesgouveia@gmail.com**
-- 📄 Currently, I am working at Gregario as Python BackEnd Developer
+- 📄 I’m working at Gregario as Python BackEnd Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
