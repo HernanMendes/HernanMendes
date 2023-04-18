@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Hernán Mendes</h1>
-<h3 align="center">A Python Developer | Data Engineer from Argentina</h3>
+<h3 align="center">A Python Developer from Argentina</h3>
 
 - 🔭 I’m currently working on **Web Scraping with Python, Django and Celery**
 - 🌱 I’m currently learning **Advanced Python, Relational Databases and Scrapy**
