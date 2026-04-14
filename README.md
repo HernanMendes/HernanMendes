@@ -6,7 +6,7 @@
 
 - 🔭 I’m working on **Data Engineering projects (Web Scraping, Data Pipelines, Automations)**
 - 🧠 I have experience with **Python, Django, Celery, Airflow, Scrapy, Playwright and Docker**
-- 📄 Currently working as a **Python Web Scraping Developer at Gregario**
+- 📄 Currently working as a **Python Web Scraping Developer** at *Gregario*
 - 🌱 I’m learning **Advanced Python and Relational Databases**
 - 🤔 I’m interested in leaning **Geospatial Data**
 - 👨‍💻 All my projects are available at My Github
