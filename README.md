@@ -8,7 +8,7 @@
 - 🧠 I have experience with **Python, Django, Celery, Airflow, Scrapy, Playwright and Docker**
 - 📄 Currently working as a **Python Web Scraping Developer** at *Gregario*
 - 🌱 I’m learning **Advanced Python** and **Relational Databases**
-- 🤔 I’m interested in leaning **Geospatial Data**
+- 🤔 I’m also interested in **Geospatial Data** and **IoT**
 - 👨‍💻 All my projects are available at My Github
 - 📫 How to reach me: hmendesgouveia@gmail.com
 - 🌐 **Portfolio: [hernanmendes.github.io](https://hernanmendes.github.io)**
