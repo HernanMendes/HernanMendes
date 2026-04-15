@@ -10,8 +10,8 @@
 - 🌱 I’m learning **Advanced Python** and **Relational Databases**
 - 🤔 I’m interested in leaning **Geospatial Data**
 - 👨‍💻 All my projects are available at My Github
-- 📫 How to reach me **hmendesgouveia@gmail.com**
-- 🌐 **Portfolio:** https://hernanmendes.github.io
+- 📫 How to reach me: hmendesgouveia@gmail.com
+- 🌐 **Portfolio: [hernanmendes.github.io](https://hernanmendes.github.io)**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
